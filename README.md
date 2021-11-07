@@ -1,6 +1,7 @@
 ## 👋 Hi there, I'm Rio 
 
 -  🔭 I’m currently working on SMK Bakti Nusantara 666
+-  💬 Loves to solve programming/algorithmic problems and write useful code.
 
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-190-blue)
