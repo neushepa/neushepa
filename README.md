@@ -2,11 +2,6 @@
 
 -  🔭 I’m currently working on SMK Bakti Nusantara 666
 
-## Activity
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=neushepa&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-<a href="https://github.com/neushepa/neushepa">
-<img align="center" width="400" src="https://github-readme-stats.vercel.app/api/wakatime?username=neushepa&theme=react&layout=compact" /></a>
-
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
