@@ -1,4 +1,5 @@
 ## Hi there, I'm Rio aka Deandrie 👋
+
 - 🔭 I’m currently working on SMK Bakti Nusantara 666
 - 🌱 I’m currently learning about laravel
 - 👯 I’m looking to collaborate with other developer
@@ -7,6 +8,7 @@
 ## Activity
 <a href="https://github.com/neushepa/neushepa">
   <img align="center" width="400" src="https://github-readme-stats.vercel.app/api/wakatime?username=neushepa&theme=react&layout=compact" />
+
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
