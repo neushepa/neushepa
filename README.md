@@ -90,4 +90,3 @@ Blade                    1 repo              ████████░░░�
 ## 📫 Contact Me
 - Instagram - [@rio_rj45](https://www.instagram.com/rio_rj45/)
 - Twitter - [@rio_rj45](https://twitter.com/rio_rj45)
-- Blog - [http://noc.smkbn666.com](http://noc.smkbn666.com)
