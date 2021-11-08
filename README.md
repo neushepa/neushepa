@@ -1,6 +1,6 @@
 ## 👋 Hi there, I'm Rio 
 
--  🔭 I’m currently working on SMK Bakti Nusantara 666
+-  🔭 I’m currently Web Programming teacher at SMK Bakti Nusantara 666
 -  💬 Loves to solve programming/algorithmic problems and write useful code.
 
 <!--START_SECTION:waka-->
