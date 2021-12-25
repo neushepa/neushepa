@@ -85,7 +85,7 @@ Blade                    2 repos             ███████░░░░�
 ![Chart not found](https://raw.githubusercontent.com/neushepa/neushepa/main/charts/bar_graph.png) 
 
 
- Last Updated on 24/12/2021
+ Last Updated on 25/12/2021
 <!--END_SECTION:waka-->
 
 ## 📫 Contact Me
