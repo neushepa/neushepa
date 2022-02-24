@@ -4,7 +4,7 @@
 -  💬 Loves to solve programming/algorithmic problems and write useful code.
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 **🐱 My GitHub Data** 
 
@@ -47,18 +47,16 @@ Sunday       30 commits     ████████░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-PHP                      14 mins             ██████████░░░░░░░░░░░░░░░   43.3% 
-YAML                     10 mins             ███████░░░░░░░░░░░░░░░░░░   30.17% 
-Blade Template           8 mins              ██████░░░░░░░░░░░░░░░░░░░   26.54%
+PHP                      8 mins              █████████████████████████   100.0%
 
 🔥 Editors: 
-VS Code                  33 mins             █████████████████████████   100.0%
+VS Code                  8 mins              █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-Unknown Project          33 mins             █████████████████████████   100.0%
+ffstarterkits            8 mins              █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  33 mins             █████████████████████████   100.0%
+Windows                  8 mins              █████████████████████████   100.0%
 
 ```
 
@@ -78,7 +76,7 @@ JavaScript               1 repo              ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/neushepa/neushepa/main/charts/bar_graph.png) 
 
 
- Last Updated on 23/02/2022 18:44:55 UTC
+ Last Updated on 24/02/2022 18:46:31 UTC
 <!--END_SECTION:waka-->
 
 ## 📫 Contact Me
