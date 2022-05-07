@@ -4,6 +4,8 @@
 -  💬 Loves to solve programming/algorithmic problems and write useful code.
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -58,8 +60,7 @@ Sublime Text             2 mins              █░░░░░░░░░░�
 🐱‍💻 Projects: 
 starterpack              47 mins             ████████████████████████░   95.66% 
 bimbingankonseling       1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   3.74% 
-peduli-diri              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.59% 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+peduli-diri              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.59%
 
 💻 Operating System: 
 Windows                  49 mins             █████████████████████████   100.0%
@@ -82,7 +83,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/neushepa/neushepa/main/charts/bar_graph.png) 
 
 
- Last Updated on 06/05/2022 18:49:06 UTC
+ Last Updated on 07/05/2022 18:47:20 UTC
 <!--END_SECTION:waka-->
 
 ## 📫 Contact Me
