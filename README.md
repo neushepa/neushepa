@@ -56,6 +56,7 @@ Other                    0 secs              ░░░░░░░░░░░�
 
 🔥 Editors: 
 VS Code                  1 hr 28 mins        █████████████████████████   100.0% 
+Powerpoint               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
 Excel                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 🐱‍💻 Projects: 
@@ -86,7 +87,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/neushepa/neushepa/main/charts/bar_graph.png) 
 
 
- Last Updated on 14/07/2022 18:48:41 UTC
+ Last Updated on 15/07/2022 18:50:21 UTC
 <!--END_SECTION:waka-->
 
 ## 📫 Contact Me
