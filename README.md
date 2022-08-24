@@ -12,7 +12,7 @@
 
 > 🏆 29 Contributions in the Year 2022
  > 
-> 📦 203.9 kB Used in GitHub's Storage 
+> 📦 204.0 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -49,22 +49,16 @@ Sunday       43 commits     █████████░░░░░░░░�
 ⌚︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Blade Template           2 hrs 29 mins       ████████████████░░░░░░░░░   66.49% 
-Bash                     29 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.18% 
-TypeScript               27 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.07% 
-PHP                      14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.56% 
-Other                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.65%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  3 hrs 44 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-akacms                   2 hrs 44 mins       ██████████████████░░░░░░░   73.09% 
-jhsbn                    33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   14.8% 
-developer-roadmap        27 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.11%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      3 hrs 44 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -84,7 +78,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/neushepa/neushepa/main/charts/bar_graph.png) 
 
 
- Last Updated on 22/08/2022 18:49:59 UTC
+ Last Updated on 24/08/2022 18:56:59 UTC
 <!--END_SECTION:waka-->
 
 ## 📫 Contact Me
