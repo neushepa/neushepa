@@ -4,7 +4,7 @@
 -  💬 Loves to solve programming/algorithmic problems and write useful code.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-650%20hrs%2055%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-650%20hrs%2056%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -49,15 +49,15 @@ Sunday       43 commits     █████████░░░░░░░░�
 ⌚︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Blade Template           1 min               █████████████████░░░░░░░░   69.15% 
-PHP                      0 secs              ███████░░░░░░░░░░░░░░░░░░   30.85%
+Blade Template           1 min               ███████████████░░░░░░░░░░   60.77% 
+PHP                      0 secs              █████████░░░░░░░░░░░░░░░░   39.23%
 
 🔥 Editors: 
 VS Code                  2 mins              █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-Peduli_Diri              1 min               ██████████████░░░░░░░░░░░   57.29% 
-akacms                   0 secs              ██████████░░░░░░░░░░░░░░░   42.71%
+Peduli_Diri              1 min               ███████████████░░░░░░░░░░   62.47% 
+akacms                   0 secs              █████████░░░░░░░░░░░░░░░░   37.53%
 
 💻 Operating System: 
 Mac                      2 mins              █████████████████████████   100.0%
@@ -80,7 +80,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/neushepa/neushepa/main/charts/bar_graph.png) 
 
 
- Last Updated on 28/08/2022 18:48:32 UTC
+ Last Updated on 29/08/2022 18:50:49 UTC
 <!--END_SECTION:waka-->
 
 ## 📫 Contact Me
