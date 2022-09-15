@@ -20,6 +20,48 @@
  > 
 > 🔑 3 Private Repositories  
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    16 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
+🌆 Daytime    33 commits     ███████░░░░░░░░░░░░░░░░░░   29.46% 
+🌃 Evening    35 commits     ███████░░░░░░░░░░░░░░░░░░   31.25% 
+🌙 Night      28 commits     ██████░░░░░░░░░░░░░░░░░░░   25.0%
+
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday       23 commits     █████░░░░░░░░░░░░░░░░░░░░   20.54% 
+Tuesday      6 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.36% 
+Wednesday    4 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   3.57% 
+Thursday     10 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.93% 
+Friday       13 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.61% 
+Saturday     13 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.61% 
+Sunday       43 commits     █████████░░░░░░░░░░░░░░░░   38.39%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Jakarta
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
 **I Mostly Code in PHP** 
 
 ```text
@@ -36,7 +78,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/neushepa/neushepa/main/charts/bar_graph.png) 
 
 
- Last Updated on 14/09/2022 18:54:33 UTC
+ Last Updated on 15/09/2022 18:53:54 UTC
 <!--END_SECTION:waka-->
 
 ## 📫 Contact Me
