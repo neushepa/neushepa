@@ -4,7 +4,7 @@
 -  💬 Loves to solve programming/algorithmic problems and write useful code.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-651%20hrs%204%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-651%20hrs%206%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -49,17 +49,18 @@ Sunday       43 commits     █████████░░░░░░░░�
 ⌚︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-PHP                      8 mins              █████████████████████████   99.97% 
-Blade Template           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.03%
+PHP                      10 mins             █████████████████████████   99.98% 
+Blade Template           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.02%
 
 🔥 Editors: 
-VS Code                  8 mins              █████████████████████████   100.0%
+VS Code                  10 mins             █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-fp-baknus                8 mins              █████████████████████████   100.0%
+fp-baknus                8 mins              ██████████████████░░░░░░░   75.47% 
+peduli-diri              2 mins              ██████░░░░░░░░░░░░░░░░░░░   24.53%
 
 💻 Operating System: 
-Windows                  8 mins              █████████████████████████   100.0%
+Windows                  10 mins             █████████████████████████   100.0%
 
 ```
 
@@ -79,7 +80,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/neushepa/neushepa/main/charts/bar_graph.png) 
 
 
- Last Updated on 20/09/2022 18:55:26 UTC
+ Last Updated on 21/09/2022 18:56:56 UTC
 <!--END_SECTION:waka-->
 
 ## 📫 Contact Me
