@@ -4,19 +4,19 @@
 -  💬 Loves to solve programming/algorithmic problems and write useful code.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-651%20hrs%2015%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-655%20hrs%2010%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 29 Contributions in the Year 2022
+> 🏆 30 Contributions in the Year 2022
  > 
 > 📦 204.0 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 23 Public Repositories 
+> 📜 24 Public Repositories 
  > 
 > 🔑 3 Private Repositories  
  > 
@@ -49,21 +49,20 @@ Sunday       43 commits     █████████░░░░░░░░�
 ⌚︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-PHP                      10 mins             ██████████████░░░░░░░░░░░   55.6% 
-Other                    8 mins              ███████████░░░░░░░░░░░░░░   44.39% 
-Blade Template           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01%
+Other                    4 hrs 3 mins        █████████████████████████   99.68% 
+PHP                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.32%
 
 🔥 Editors: 
-VS Code                  10 mins             ██████████████░░░░░░░░░░░   55.61% 
-Excel                    8 mins              ███████████░░░░░░░░░░░░░░   44.39%
+Excel                    4 hrs 3 mins        █████████████████████████   99.68% 
+VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.32%
 
 🐱‍💻 Projects: 
-Unknown Project          8 mins              ███████████░░░░░░░░░░░░░░   44.39% 
-fp-baknus                8 mins              ██████████░░░░░░░░░░░░░░░   41.9% 
-peduli-diri              2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.71%
+Unknown Project          4 hrs 3 mins        █████████████████████████   99.68% 
+peduli-diri              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.31% 
+fp-baknus                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.02%
 
 💻 Operating System: 
-Windows                  19 mins             █████████████████████████   100.0%
+Windows                  4 hrs 3 mins        █████████████████████████   100.0%
 
 ```
 
@@ -83,7 +82,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/neushepa/neushepa/main/charts/bar_graph.png) 
 
 
- Last Updated on 24/09/2022 18:53:04 UTC
+ Last Updated on 28/09/2022 19:00:24 UTC
 <!--END_SECTION:waka-->
 
 ## 📫 Contact Me
