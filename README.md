@@ -4,7 +4,7 @@
 -  💬 Loves to solve programming/algorithmic problems and write useful code.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-665%20hrs%2036%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-666%20hrs%208%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -49,20 +49,16 @@ Sunday       43 commits     █████████░░░░░░░░�
 ⌚︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Other                    14 hrs 19 mins      █████████████████████████   99.91% 
-PHP                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.09%
+Other                    14 hrs 51 mins      █████████████████████████   100.0%
 
 🔥 Editors: 
-Excel                    14 hrs 19 mins      █████████████████████████   99.91% 
-VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.09%
+Excel                    14 hrs 51 mins      █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-Unknown Project          14 hrs 19 mins      █████████████████████████   99.91% 
-peduli-diri              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.09% 
-fp-baknus                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+Unknown Project          14 hrs 51 mins      █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  14 hrs 20 mins      █████████████████████████   100.0%
+Windows                  14 hrs 51 mins      █████████████████████████   100.0%
 
 ```
 
@@ -82,7 +78,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/neushepa/neushepa/main/charts/bar_graph.png) 
 
 
- Last Updated on 01/10/2022 18:55:22 UTC
+ Last Updated on 02/10/2022 18:56:10 UTC
 <!--END_SECTION:waka-->
 
 ## 📫 Contact Me
