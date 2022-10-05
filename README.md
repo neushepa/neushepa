@@ -4,15 +4,15 @@
 -  💬 Loves to solve programming/algorithmic problems and write useful code.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-666%20hrs%208%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-667%20hrs%2044%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-13-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-16-blue)
 
 **🐱 My GitHub Data** 
 
 > 🏆 32 Contributions in the Year 2022
  > 
-> 📦 227.3 kB Used in GitHub's Storage 
+> 📦 227.4 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -49,16 +49,25 @@ Sunday       43 commits     █████████░░░░░░░░�
 ⌚︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Other                    14 hrs 24 mins      █████████████████████████   100.0%
+Other                    11 hrs              ██████████████████████░░░   87.61% 
+PHP                      52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.97% 
+Bash                     35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.7% 
+HTML                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.7% 
+Blade Template           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.03%
 
 🔥 Editors: 
-Excel                    14 hrs 24 mins      █████████████████████████   100.0%
+Excel                    10 hrs 57 mins      █████████████████████░░░░   87.24% 
+VS Code                  1 hr 36 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.76%
 
 🐱‍💻 Projects: 
-Unknown Project          14 hrs 24 mins      █████████████████████████   100.0%
+Unknown Project          10 hrs 57 mins      █████████████████████░░░░   87.34% 
+presensi                 1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   10.32% 
+Peduli_Diri              11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.51% 
+iotech                   6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.83%
 
 💻 Operating System: 
-Windows                  14 hrs 24 mins      █████████████████████████   100.0%
+Windows                  10 hrs 57 mins      █████████████████████░░░░   87.24% 
+Mac                      1 hr 36 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.76%
 
 ```
 
@@ -78,7 +87,7 @@ JavaScript               2 repos             ███░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/neushepa/neushepa/main/charts/bar_graph.png) 
 
 
- Last Updated on 03/10/2022 19:00:43 UTC
+ Last Updated on 05/10/2022 19:05:24 UTC
 <!--END_SECTION:waka-->
 
 ## 📫 Contact Me
