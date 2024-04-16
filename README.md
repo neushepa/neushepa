@@ -8,8 +8,6 @@
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.9%20million%20lines%20of%20code-blue)
-
 **🐱 My GitHub Data** 
 
 > 📦 331.0 kB Used in GitHub's Storage 
@@ -53,6 +51,11 @@ GitIgnore file           8 mins              ███████████�
 🔥 Editors: 
 PyCharm                  18 mins             █████████████████████████   100.00 % 
 
+🐱‍💻 Projects: 
+Unknown Project          10 mins             █████████████░░░░░░░░░░░░   53.61 % 
+VirtualMouse             5 mins              ███████░░░░░░░░░░░░░░░░░░   29.29 % 
+SkyeDemo                 3 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.10 % 
+
 💻 Operating System: 
 Windows                  18 mins             █████████████████████████   100.00 % 
 ```
@@ -69,8 +72,12 @@ SCSS                     1 repo              █░░░░░░░░░░�
 
 
 
+**Timeline**
 
- Last Updated on 16/04/2024 00:52:02 UTC
+![Lines of Code chart](https://raw.githubusercontent.com/neushepa/neushepa/main/assets/bar_graph.png)
+
+
+ Last Updated on 16/04/2024 18:41:13 UTC
 <!--END_SECTION:waka-->
 
 ## 📫 Contact Me
