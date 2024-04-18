@@ -4,11 +4,9 @@
 -  💬 Loves to solve programming/algorithmic problems and write useful code.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C034%20hrs%208%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C033%20hrs%2055%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.9%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
@@ -57,6 +55,12 @@ PHP                      0 secs              ░░░░░░░░░░░�
 PyCharm                  18 mins             ██████████████████░░░░░░░   71.52 % 
 PhpStorm                 7 mins              ███████░░░░░░░░░░░░░░░░░░   28.48 % 
 
+🐱‍💻 Projects: 
+Unknown Project          10 mins             ██████████░░░░░░░░░░░░░░░   38.34 % 
+skyedigipreneur          7 mins              ███████░░░░░░░░░░░░░░░░░░   28.48 % 
+VirtualMouse             5 mins              █████░░░░░░░░░░░░░░░░░░░░   20.95 % 
+SkyeDemo                 3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.23 % 
+
 💻 Operating System: 
 Windows                  26 mins             █████████████████████████   100.00 % 
 ```
@@ -73,8 +77,12 @@ SCSS                     1 repo              █░░░░░░░░░░�
 
 
 
+**Timeline**
 
- Last Updated on 18/04/2024 00:51:56 UTC
+![Lines of Code chart](https://raw.githubusercontent.com/neushepa/neushepa/main/assets/bar_graph.png)
+
+
+ Last Updated on 18/04/2024 18:36:19 UTC
 <!--END_SECTION:waka-->
 
 ## 📫 Contact Me
