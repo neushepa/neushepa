@@ -4,9 +4,11 @@
 -  💬 Loves to solve programming/algorithmic problems and write useful code.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C033%20hrs%2048%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C034%20hrs%208%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.9%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
@@ -45,19 +47,18 @@ Sunday                   54 commits          ██████░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Python                   10 mins             ██████████████░░░░░░░░░░░   56.48 % 
-GitIgnore file           8 mins              ███████████░░░░░░░░░░░░░░   43.52 % 
+Python                   10 mins             ██████████░░░░░░░░░░░░░░░   40.40 % 
+GitIgnore file           8 mins              ████████░░░░░░░░░░░░░░░░░   31.12 % 
+Blade Template           7 mins              ███████░░░░░░░░░░░░░░░░░░   28.43 % 
+textmate                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+PHP                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-PyCharm                  18 mins             █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-Unknown Project          10 mins             █████████████░░░░░░░░░░░░   53.61 % 
-VirtualMouse             5 mins              ███████░░░░░░░░░░░░░░░░░░   29.29 % 
-SkyeDemo                 3 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.10 % 
+PyCharm                  18 mins             ██████████████████░░░░░░░   71.52 % 
+PhpStorm                 7 mins              ███████░░░░░░░░░░░░░░░░░░   28.48 % 
 
 💻 Operating System: 
-Windows                  18 mins             █████████████████████████   100.00 % 
+Windows                  26 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in PHP** 
@@ -72,12 +73,8 @@ SCSS                     1 repo              █░░░░░░░░░░�
 
 
 
-**Timeline**
 
-![Lines of Code chart](https://raw.githubusercontent.com/neushepa/neushepa/main/assets/bar_graph.png)
-
-
- Last Updated on 17/04/2024 18:36:57 UTC
+ Last Updated on 18/04/2024 00:51:56 UTC
 <!--END_SECTION:waka-->
 
 ## 📫 Contact Me
