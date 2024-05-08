@@ -4,15 +4,15 @@
 -  💬 Loves to solve programming/algorithmic problems and write useful code.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C045%20hrs%202%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C043%20hrs%2047%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.9%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 331.1 kB Used in GitHub's Storage 
+ > 
+> 🏆 0 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -58,6 +58,13 @@ PhpStorm                 5 hrs 12 mins       ███████████�
 VS Code                  57 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.72 % 
 PyCharm                  47 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.33 % 
 
+🐱‍💻 Projects: 
+msa_barang               5 hrs 13 mins       ███████████████████░░░░░░   75.30 % 
+Pingpong                 47 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.33 % 
+filament                 33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.07 % 
+Unknown Project          13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
+mahiwal                  5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
+
 💻 Operating System: 
 Windows                  6 hrs 56 mins       █████████████████████████   100.00 % 
 ```
@@ -74,8 +81,12 @@ SCSS                     1 repo              █░░░░░░░░░░�
 
 
 
+**Timeline**
 
- Last Updated on 08/05/2024 00:44:00 UTC
+![Lines of Code chart](https://raw.githubusercontent.com/neushepa/neushepa/main/assets/bar_graph.png)
+
+
+ Last Updated on 08/05/2024 18:37:58 UTC
 <!--END_SECTION:waka-->
 
 ## 📫 Contact Me
