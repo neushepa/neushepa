@@ -8,9 +8,13 @@
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.9%20million%20lines%20of%20code-blue)
+
 **🐱 My GitHub Data** 
 
 > 📦 331.1 kB Used in GitHub's Storage 
+ > 
+> 🏆 33 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -45,20 +49,13 @@ Sunday                   54 commits          ██████░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-HTML                     53 mins             ████████████████████████░   96.11 % 
-CSS                      1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  55 mins             █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-Pert_3                   49 mins             ███████████████████████░░   90.39 % 
-pert_4                   5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  55 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in PHP** 
@@ -73,12 +70,8 @@ SCSS                     1 repo              █░░░░░░░░░░�
 
 
 
-**Timeline**
 
-![Lines of Code chart](https://raw.githubusercontent.com/neushepa/neushepa/main/assets/bar_graph.png)
-
-
- Last Updated on 24/05/2024 18:38:04 UTC
+ Last Updated on 25/05/2024 00:54:19 UTC
 <!--END_SECTION:waka-->
 
 ## 📫 Contact Me
