@@ -6,7 +6,9 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C047%20hrs%2044%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-35-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.9%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
@@ -52,9 +54,6 @@ No Activity Tracked This Week
 🔥 Editors: 
 No Activity Tracked This Week
 
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
 💻 Operating System: 
 No Activity Tracked This Week
 ```
@@ -71,12 +70,8 @@ SCSS                     1 repo              █░░░░░░░░░░�
 
 
 
-**Timeline**
 
-![Lines of Code chart](https://raw.githubusercontent.com/neushepa/neushepa/main/assets/bar_graph.png)
-
-
- Last Updated on 27/05/2024 18:37:50 UTC
+ Last Updated on 28/05/2024 00:55:35 UTC
 <!--END_SECTION:waka-->
 
 ## 📫 Contact Me
