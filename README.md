@@ -8,13 +8,9 @@
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-35-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.9%20million%20lines%20of%20code-blue)
-
 **🐱 My GitHub Data** 
 
 > 📦 331.1 kB Used in GitHub's Storage 
- > 
-> 🏆 33 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -58,6 +54,13 @@ Other                    1 min               ░░░░░░░░░░░�
 🔥 Editors: 
 VS Code                  5 hrs 45 mins       █████████████████████████   100.00 % 
 
+🐱‍💻 Projects: 
+flutter_mobile           2 hrs 34 mins       ███████████░░░░░░░░░░░░░░   44.76 % 
+flutter_application_api  1 hr 55 mins        ████████░░░░░░░░░░░░░░░░░   33.30 % 
+flutter_application_1    41 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.86 % 
+uasdatabase              29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 % 
+fnr                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
+
 💻 Operating System: 
 Windows                  5 hrs 45 mins       █████████████████████████   100.00 % 
 ```
@@ -74,8 +77,12 @@ SCSS                     1 repo              █░░░░░░░░░░�
 
 
 
+**Timeline**
 
- Last Updated on 30/05/2024 00:56:02 UTC
+![Lines of Code chart](https://raw.githubusercontent.com/neushepa/neushepa/main/assets/bar_graph.png)
+
+
+ Last Updated on 30/05/2024 18:39:41 UTC
 <!--END_SECTION:waka-->
 
 ## 📫 Contact Me
