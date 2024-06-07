@@ -4,13 +4,17 @@
 -  💬 Loves to solve programming/algorithmic problems and write useful code.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C056%20hrs%2038%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C061%20hrs%2018%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-35-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.9%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 331.1 kB Used in GitHub's Storage 
+ > 
+> 🏆 33 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -45,22 +49,17 @@ Sunday                   54 commits          ██████░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-CSS                      2 hrs 11 mins       █████████████████░░░░░░░░   69.94 % 
-HTML                     43 mins             ██████░░░░░░░░░░░░░░░░░░░   23.21 % 
-Dart                     12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.82 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+PHP                      4 hrs 26 mins       ███████████████░░░░░░░░░░   58.40 % 
+CSS                      2 hrs 11 mins       ███████░░░░░░░░░░░░░░░░░░   28.87 % 
+HTML                     43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.62 % 
+Bash                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
+Blade Template           3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 8 mins        █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-pert_5                   2 hrs 55 mins       ███████████████████████░░   93.17 % 
-flutter_application_api  10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.68 % 
-inventaris               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
+VS Code                  7 hrs 36 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  3 hrs 8 mins        █████████████████████████   100.00 % 
+Windows                  7 hrs 36 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in PHP** 
@@ -75,12 +74,8 @@ SCSS                     1 repo              █░░░░░░░░░░�
 
 
 
-**Timeline**
 
-![Lines of Code chart](https://raw.githubusercontent.com/neushepa/neushepa/main/assets/bar_graph.png)
-
-
- Last Updated on 06/06/2024 18:38:37 UTC
+ Last Updated on 07/06/2024 00:58:38 UTC
 <!--END_SECTION:waka-->
 
 ## 📫 Contact Me
