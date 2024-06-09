@@ -4,9 +4,11 @@
 -  💬 Loves to solve programming/algorithmic problems and write useful code.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C061%20hrs%2028%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C062%20hrs%2010%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-35-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.9%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
@@ -54,12 +56,6 @@ HTML                     0 secs              ░░░░░░░░░░░�
 🔥 Editors: 
 VS Code                  4 hrs 49 mins       █████████████████████████   100.00 % 
 
-🐱‍💻 Projects: 
-Chaca                    4 hrs 3 mins        █████████████████████░░░░   83.91 % 
-filamentos               20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.09 % 
-msa_barang               18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.35 % 
-ffstarterkits            7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
-
 💻 Operating System: 
 Windows                  4 hrs 49 mins       █████████████████████████   100.00 % 
 ```
@@ -76,12 +72,8 @@ SCSS                     1 repo              █░░░░░░░░░░�
 
 
 
-**Timeline**
 
-![Lines of Code chart](https://raw.githubusercontent.com/neushepa/neushepa/main/assets/bar_graph.png)
-
-
- Last Updated on 08/06/2024 18:37:24 UTC
+ Last Updated on 09/06/2024 01:01:56 UTC
 <!--END_SECTION:waka-->
 
 ## 📫 Contact Me
