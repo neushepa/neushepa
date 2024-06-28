@@ -4,13 +4,17 @@
 -  💬 Loves to solve programming/algorithmic problems and write useful code.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C081%20hrs%209%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C081%20hrs%2037%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.9%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 331.1 kB Used in GitHub's Storage 
+ > 
+> 🏆 35 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -45,17 +49,15 @@ Sunday                   54 commits          ██████░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-PHP                      4 mins              ██████████████████████░░░   89.69 % 
-HTML                     0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   10.31 % 
+PHP                      32 mins             ████████████████████████░   96.42 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
+HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
 
 🔥 Editors: 
-VS Code                  5 mins              █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-Chaca                    5 mins              █████████████████████████   100.00 % 
+VS Code                  33 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  5 mins              █████████████████████████   100.00 % 
+Windows                  33 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in PHP** 
@@ -70,12 +72,8 @@ SCSS                     1 repo              █░░░░░░░░░░�
 
 
 
-**Timeline**
 
-![Lines of Code chart](https://raw.githubusercontent.com/neushepa/neushepa/main/assets/bar_graph.png)
-
-
- Last Updated on 27/06/2024 18:38:40 UTC
+ Last Updated on 28/06/2024 00:57:53 UTC
 <!--END_SECTION:waka-->
 
 ## 📫 Contact Me
