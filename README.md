@@ -4,9 +4,11 @@
 -  💬 Loves to solve programming/algorithmic problems and write useful code.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C082%20hrs%2032%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C082%20hrs%2040%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.9%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
@@ -47,18 +49,18 @@ Sunday                   54 commits          ██████░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-JavaScript               53 mins             ████████████████████████░   97.05 % 
-HTML                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+JavaScript               53 mins             █████████████████████░░░░   84.38 % 
+PHP                      3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.22 % 
+Blade Template           2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 % 
+Python                   2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 % 
+HTML                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
 
 🔥 Editors: 
-VS Code                  54 mins             █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-reactboot                54 mins             █████████████████████████   100.00 % 
+VS Code                  1 hr                ████████████████████████░   96.52 % 
+PyCharm                  2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 % 
 
 💻 Operating System: 
-Windows                  54 mins             █████████████████████████   100.00 % 
+Windows                  1 hr 3 mins         █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in PHP** 
@@ -73,12 +75,8 @@ SCSS                     1 repo              █░░░░░░░░░░�
 
 
 
-**Timeline**
 
-![Lines of Code chart](https://raw.githubusercontent.com/neushepa/neushepa/main/assets/bar_graph.png)
-
-
- Last Updated on 05/07/2024 18:39:44 UTC
+ Last Updated on 06/07/2024 00:56:34 UTC
 <!--END_SECTION:waka-->
 
 ## 📫 Contact Me
