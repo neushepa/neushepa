@@ -8,6 +8,8 @@
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.9%20million%20lines%20of%20code-blue)
+
 **🐱 My GitHub Data** 
 
 > 📦 331.2 kB Used in GitHub's Storage 
@@ -58,12 +60,6 @@ VS Code                  1 hr                ███████████�
 PyCharm                  2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
 PhpStorm                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
 
-🐱‍💻 Projects: 
-reactboot                54 mins             ██████████████████████░░░   86.61 % 
-ffstarterkits            5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.26 % 
-Unknown Project          2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
-msa_barang               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
-
 💻 Operating System: 
 Windows                  1 hr 3 mins         █████████████████████████   100.00 % 
 ```
@@ -80,12 +76,8 @@ SCSS                     1 repo              █░░░░░░░░░░�
 
 
 
-**Timeline**
 
-![Lines of Code chart](https://raw.githubusercontent.com/neushepa/neushepa/main/assets/bar_graph.png)
-
-
- Last Updated on 08/07/2024 18:39:43 UTC
+ Last Updated on 09/07/2024 00:59:05 UTC
 <!--END_SECTION:waka-->
 
 ## 📫 Contact Me
