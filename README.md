@@ -4,17 +4,13 @@
 -  💬 Loves to solve programming/algorithmic problems and write useful code.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C083%20hrs%2025%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C083%20hrs%2019%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.9%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 331.2 kB Used in GitHub's Storage 
- > 
-> 🏆 35 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -55,6 +51,9 @@ Other                    0 secs              ░░░░░░░░░░░�
 🔥 Editors: 
 VS Code                  38 mins             █████████████████████████   100.00 % 
 
+🐱‍💻 Projects: 
+cv_ppg3_2                38 mins             █████████████████████████   100.00 % 
+
 💻 Operating System: 
 Windows                  38 mins             █████████████████████████   100.00 % 
 ```
@@ -71,8 +70,12 @@ SCSS                     1 repo              █░░░░░░░░░░�
 
 
 
+**Timeline**
 
- Last Updated on 23/07/2024 00:59:44 UTC
+![Lines of Code chart](https://raw.githubusercontent.com/neushepa/neushepa/main/assets/bar_graph.png)
+
+
+ Last Updated on 23/07/2024 18:39:02 UTC
 <!--END_SECTION:waka-->
 
 ## 📫 Contact Me
