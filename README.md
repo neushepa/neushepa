@@ -8,9 +8,13 @@
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.9%20million%20lines%20of%20code-blue)
+
 **🐱 My GitHub Data** 
 
 > 📦 331.2 kB Used in GitHub's Storage 
+ > 
+> 🏆 35 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -54,10 +58,6 @@ INI                      0 secs              ░░░░░░░░░░░�
 🔥 Editors: 
 VS Code                  1 hr 13 mins        █████████████████████████   100.00 % 
 
-🐱‍💻 Projects: 
-cv_ppg3_2                44 mins             ███████████████░░░░░░░░░░   61.44 % 
-EasylinkSDK_PHP8         28 mins             ██████████░░░░░░░░░░░░░░░   38.56 % 
-
 💻 Operating System: 
 Windows                  1 hr 13 mins        █████████████████████████   100.00 % 
 ```
@@ -74,12 +74,8 @@ SCSS                     1 repo              █░░░░░░░░░░�
 
 
 
-**Timeline**
 
-![Lines of Code chart](https://raw.githubusercontent.com/neushepa/neushepa/main/assets/bar_graph.png)
-
-
- Last Updated on 25/07/2024 18:38:25 UTC
+ Last Updated on 26/07/2024 00:58:49 UTC
 <!--END_SECTION:waka-->
 
 ## 📫 Contact Me
