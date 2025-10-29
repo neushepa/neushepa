@@ -3,80 +3,42 @@
 -  🔭 I’m currently Software Enginer at Skye Digipreneur School
 -  💬 Loves to solve programming/algorithmic problems and write useful code.
 
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C083%20hrs%2054%20mins-blue)
+---
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+### 🌈 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neushepa&layout=compact&langs_count=10&theme=tokyonight&hide_border=true)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.9%20million%20lines%20of%20code-blue)
+---
 
-**🐱 My GitHub Data** 
+### ⚙️ GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=neushepa&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=neushepa&theme=tokyonight&hide_border=true)
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=neushepa&theme=tokyonight)
 
-> 📦 331.2 kB Used in GitHub's Storage 
- > 
-> 🏆 35 Contributions in the Year 2024
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 40 Public Repositories 
- > 
-> 🔑 5 Private Repositories 
- > 
-**I'm a Night 🦉** 
+---
 
-```text
-🌞 Morning                37 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.52 % 
-🌆 Daytime                56 commits          ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-🌃 Evening                74 commits          ████████░░░░░░░░░░░░░░░░░   33.04 % 
-🌙 Night                  57 commits          ██████░░░░░░░░░░░░░░░░░░░   25.45 % 
-```
-📅 **I'm Most Productive on Sunday** 
+### 🕓 WakaTime Stats
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=neushepa&layout=compact&theme=tokyonight&hide_border=true)
 
-```text
-Monday                   45 commits          █████░░░░░░░░░░░░░░░░░░░░   20.09 % 
-Tuesday                  20 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.93 % 
-Wednesday                21 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
-Thursday                 29 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.95 % 
-Friday                   34 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.18 % 
-Saturday                 21 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
-Sunday                   54 commits          ██████░░░░░░░░░░░░░░░░░░░   24.11 % 
-```
+---
 
+### 🧠 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,php,go,html,css,vue,react,nodejs,laravel,mysql,postgres,docker,linux,git" />
+</p>
 
-📊 **This Week I Spent My Time On** 
+---
 
-```text
-🕑︎ Time Zone: Asia/Jakarta
+### 🏆 GitHub Achievements
+![trophy](https://github-profile-trophy.vercel.app/?username=neushepa&theme=tokyonight&no-frame=true&no-bg=true&row=1)
 
-💬 Programming Languages: 
-HTML                     44 mins             ███████████████░░░░░░░░░░   61.06 % 
-PHP                      25 mins             █████████░░░░░░░░░░░░░░░░   35.47 % 
-SQL                      2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.75 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
-INI                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
+---
 
-🔥 Editors: 
-VS Code                  1 hr 13 mins        █████████████████████████   100.00 % 
+<p align="center">
+  <i>“Code, Learn, Share, Repeat.”</i><br/>
+  <a href="https://github.com/neushepa">🌐 Visit My GitHub</a>
+</p>
 
-💻 Operating System: 
-Windows                  1 hr 13 mins        █████████████████████████   100.00 % 
-```
-
-**I Mostly Code in PHP** 
-
-```text
-PHP                      8 repos             ███████░░░░░░░░░░░░░░░░░░   27.59 % 
-Blade                    7 repos             ██████░░░░░░░░░░░░░░░░░░░   24.14 % 
-JavaScript               3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
-Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
-SCSS                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
-```
-
-
-
-
- Last Updated on 27/07/2024 00:58:50 UTC
-<!--END_SECTION:waka-->
 
 ## 📫 Contact Me
 - Instagram - [@rio_rj45](https://www.instagram.com/rio_rj45/)
