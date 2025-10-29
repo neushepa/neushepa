@@ -1,0 +1,43 @@
+name: Generate Metrics
+
+on:
+  schedule: 
+    - cron: "0 0 * * *" # update setiap hari
+  workflow_dispatch: # bisa dijalankan manual
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate GitHub Metrics
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+
+          # ✨ Basic setup
+          user: neushepa
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: Asia/Jakarta
+
+          # 🏆 Plugin Stats (GitHub Stats)
+          plugin_achievements: yes
+          plugin_achievements_display: compact
+          plugin_achievements_threshold: B
+          plugin_achievements_secrets: no
+
+          # 📊 Languages
+          plugin_languages: yes
+          plugin_languages_sections: most-used
+          plugin_languages_details: percentage
+          plugin_languages_limit: 12
+
+          # ⏱️ WakaTime Integration
+          plugin_wakatime: yes
+          plugin_wakatime_sections: time, projects, languages
+          plugin_wakatime_user: neushepa
+          plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
+
+          # 💫 Output
+          filename: metrics.svg
+          config_display: columns
