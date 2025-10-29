@@ -1,49 +1,46 @@
-name: Generate Metrics
+name: Update GitHub Metrics
 
 on:
   schedule:
-    - cron: "0 0 * * *" # update setiap hari
-  workflow_dispatch:
+    - cron: "0 1 * * *"  # update setiap hari jam 08:00 WIB
+  workflow_dispatch:      # bisa dijalankan manual juga
 
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate GitHub Metrics
+      - name: Generate Metrics
         uses: lowlighter/metrics@latest
         with:
+          # ===============================
+          # 🔧 Basic Configuration
+          # ===============================
           token: ${{ secrets.METRICS_TOKEN }}
-
-          # ✨ Basic setup
           user: neushepa
           template: classic
           base: header, activity, community, repositories, metadata
-          config_timezone: Asia/Jakarta
           config_display: columns
+          config_theme: classic-light
+          config_timezone: Asia/Jakarta
+          output_action: commit
 
-          # 🏆 Achievements + grade circle
-          plugin_achievements: yes
-          plugin_achievements_display: compact
-          plugin_achievements_threshold: B
-          plugin_achievements_secrets: no
-
-          # 📊 Languages bar
-          plugin_languages: yes
-          plugin_languages_sections: most-used
-          plugin_languages_details: percentage
-          plugin_languages_limit: 12
-
-          # ⏱️ WakaTime integration
+          # ===============================
+          # 🧾 WakaTime Plugin (Lifetime Coding Stats)
+          # ===============================
           plugin_wakatime: yes
-          plugin_wakatime_sections: time, projects, languages
-          plugin_wakatime_user: neushepa
           plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
+          plugin_wakatime_user: neushepa
+          plugin_wakatime_range: all_time
+          plugin_wakatime_chart: yes
+          plugin_wakatime_chart_type: bar
+          plugin_wakatime_sections: time, languages, editors, projects, os
 
-          # 🎨 Style
-          plugin_languages_colors: github
-          plugin_languages_indepth: no
-          plugin_languages_ignored: html, css
-          plugin_achievements_ignored: explorer, stargazer
-          config_padding: 5%
-          config_order: languages, wakatime, achievements
-          filename: metrics.svg
+          # ===============================
+          # 📊 Additional Visual Tweaks
+          # ===============================
+          config_padding: 16, 16
+          config_order: base.header, base.repositories, base.metadata, plugin.wakatime
+          config_twemoji: yes
+          config_display: columns
+          plugin_lines: no
+          plugin_languages: no
