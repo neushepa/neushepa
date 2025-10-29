@@ -1,0 +1,16 @@
+name: Update GitHub README
+
+on:
+  schedule:
+    - cron: "0 */12 * * *" # update setiap 12 jam
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate GitHub Stats
+        uses: actions/checkout@v2
+      - name: Update README
+        run: |
+          echo "Updating README..."
