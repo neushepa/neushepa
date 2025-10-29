@@ -8,11 +8,6 @@
 -  🧩 Motto: *"Code. Learn. Share. Repeat."*
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=neushepa&show_icons=true&theme=default&border_color=999999&hide_border=false&bg_color=ffffff" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=neushepa&theme=default&background=ffffff&ring=000000&fire=000000&currStreakLabel=000000&sideLabels=000000&sideNums=000000&currStreakNum=000000&dates=555555&hide_border=false" height="160"/>
-</p>
-
-<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neushepa&layout=compact&langs_count=10&theme=default&bg_color=ffffff&hide_border=false&border_color=999999&text_color=000000&title_color=000000" />
 </p>
 
