@@ -4,7 +4,6 @@
 -  💬 Loves to solve programming/algorithmic problems and write useful code.
 -  💻 I love building useful tools and creative projects  
 -  🌱 Currently exploring **Next.js**, **IoT Automation**, and **Laravel**  
--  ⚡ Fun fact: I learn best by building things from scratch  
 -  🧩 Motto: *"Code. Learn. Share. Repeat."*
 
 <p align="left">
