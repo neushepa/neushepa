@@ -3,7 +3,7 @@ name: Update GitHub Metrics
 on:
   schedule:
     - cron: "0 1 * * *"  # update setiap hari jam 08:00 WIB
-  workflow_dispatch:      # bisa dijalankan manual juga
+  workflow_dispatch:
 
 jobs:
   github-metrics:
@@ -12,41 +12,37 @@ jobs:
       - name: Generate Metrics
         uses: lowlighter/metrics@latest
         with:
-          # ===============================
-          # 🔧 Basic Configuration
-          # ===============================
           token: ${{ secrets.METRICS_TOKEN }}
           user: neushepa
           template: classic
-          base: header, activity, community, repositories, metadata
-          config_display: columns
-          config_theme: classic-light
+          base: header, repositories, activity, metadata
           config_timezone: Asia/Jakarta
           output_action: commit
-          output_action_branch: main
-          output_action_commit_message: "chore: update GitHub metrics"
-          output_path: metrics.svg
           committer_branch: main
+          committer_message: "chore: update GitHub metrics"
+          filename: metrics.svg
 
-          # ===============================
-          # 🧾 WakaTime Plugin (Lifetime Coding Stats)
-          # ===============================
+          # ======================
+          # ✅ THEME (gunakan preset)
+          # ======================
+          config_presets: classic
+          config_display: columns
+
+          # ======================
+          # 🧾 WAKATIME
+          # ======================
           plugin_wakatime: yes
           plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
           plugin_wakatime_user: neushepa
-          plugin_wakatime_range: all_time
-          plugin_wakatime_chart: yes
-          plugin_wakatime_chart_type: bar
           plugin_wakatime_sections: time, languages, editors, projects, os
+          plugin_wakatime_repositories_visibility: all
+          plugin_wakatime_days: 365
+          plugin_wakatime_charts: yes
 
-          # ===============================
-          # 📊 Additional Visual Tweaks
-          # ===============================
-          config_padding: 16, 16
-          config_order: base.header, base.repositories, base.metadata, plugin.wakatime
+          # ======================
+          # ✨ EXTRA VISUAL
+          # ======================
           config_twemoji: yes
-          plugin_lines: no
+          config_padding: 16,16
           plugin_languages: no
-
-    
-
+          plugin_lines: no
