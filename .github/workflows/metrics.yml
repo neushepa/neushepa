@@ -41,11 +41,7 @@ jobs:
           # 📊 Additional Visual Tweaks
           # ===============================
           config_padding: 16, 16
-          config_order:
-            - base.header
-            - base.repositories
-            - base.metadata
-            - plugin.wakatime
+          config_order: base.header, base.repositories, base.metadata, plugin.wakatime
           config_twemoji: yes
           plugin_lines: no
           plugin_languages: no
