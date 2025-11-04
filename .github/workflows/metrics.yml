@@ -25,6 +25,8 @@ jobs:
           output_action: commit
           output_action_branch: main
           output_action_commit_message: "chore: update GitHub metrics"
+          output_path: metrics.svg
+          committer_branch: main
 
           # ===============================
           # 🧾 WakaTime Plugin (Lifetime Coding Stats)
@@ -45,3 +47,6 @@ jobs:
           config_twemoji: yes
           plugin_lines: no
           plugin_languages: no
+
+    
+
