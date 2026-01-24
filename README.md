@@ -1,10 +1,10 @@
 ## 👋 Hi there, I'm Rio 
 
--  🔭 I’m currently Software Enginer @ Skye Digipreneur School
+-  🔭 I’m currently Software Enginer Skye Digipreneur School
 -  💬 Loves to solve programming/algorithmic problems and write useful code.
 -  💻 I love building useful tools and creative projects  
--  🌱 Currently exploring **Next.js**, **IoT Automation**, and **Laravel**  
--  🧩 Motto: *"Code. Learn. Share. Repeat."*
+-  🌱 Currently exploring **Next.js**, **Agriculture IoT Automation**, and **Laravel**  
+-  🧩 *"Code. Learn. Share. Repeat."*
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neushepa&layout=compact&langs_count=10&theme=default&bg_color=ffffff&hide_border=false&border_color=999999&text_color=000000&title_color=000000" />
