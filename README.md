@@ -12,6 +12,8 @@
 
 ![WakaTime All Time](https://github-readme-stats.vercel.app/api/wakatime?username=neushepa&layout=compact&custom_title=Lifetime%20Coding%20Stats&range=all_time&theme=default&bg_color=ffffff&hide_border=false&border_color=999999&text_color=000000&title_color=000000)
 
+<h2>📊 GitHub Metrics</h2> <p align="center"> <img src="./metrics.svg" alt="GitHub Metrics" /> </p>
+
 ![Tech Stack](https://skillicons.dev/icons?i=js,ts,php,py,html,css,react,nextjs,vue,laravel,nodejs,mysql,postgres,docker,linux,git,arduino)
 
 ## 📫 Contact Me
